@@ -1,0 +1,10 @@
+name: dev
+root: ~/
+
+windows:
+  - proj:
+      root: ~/Projects/github.com/Aireck2/portfolio-api
+      layout: even-vertical
+      panes:
+          - dev:
+          - dev:
